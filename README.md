@@ -1,3 +1,7 @@
+[<img src="https://github.com/LunaChong/Luna-portfolio/blob/main/public/fun_fact.jpg" />](image.png)
+
+<br/>
+
 ### Hello 
 I was a web designer to build mock up page to programmer but now I have ability to finish from front end to back end.
 I've learnt JavaScript, React and SQL during last 16 week with School of code.

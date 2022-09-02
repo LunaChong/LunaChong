@@ -1,4 +1,4 @@
-[<img src="[https://github.com/LunaChong/Luna-portfolio/blob/main/public/fun_fact.jpg](https://github.com/LunaChong/LunaChong/blob/main/fun_fact.jpeg)" />](image.png)
+<img src="https://raw.githubusercontent.com/LunaChong/LunaChong/main/fun_fact.jpeg"/>
 
 <br/>
 
